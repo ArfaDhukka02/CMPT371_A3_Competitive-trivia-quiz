@@ -14,7 +14,7 @@
 
 ---
 
-## 1. Project Overview & Description
+## 1. Assignment Overview & Description
 
 This project is a synchronized multiplayer trivia quiz game built using Python's Socket API (TCP). Multiple players connect to a central server, enter a matchmaking lobby, and compete against each other in real time. The server handles all game logic — it picks the questions, keeps track of scores, and broadcasts the same questions to all players simultaneously so no one has an advantage. After each question the server reveals the correct answer and sends the updated scoreboard to everyone. At the end the player with the most correct answers wins.
 
