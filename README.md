@@ -46,7 +46,7 @@ One thread is created per client using Python's `threading` module. This works f
 
 ## 3. Video Demo
 
-It is in the Git repo — you can download and watch it.
+[You can open and download from this link.](https://github.com/ArfaDhukka02/CMPT371_A3_Competitive-trivia-quiz/blob/main/demo-quiz.mp4)
 
 ---
 
