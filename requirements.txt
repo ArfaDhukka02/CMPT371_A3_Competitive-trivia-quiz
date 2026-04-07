@@ -1,0 +1,18 @@
+# CMPT 371 - Assignment 3: Trivia Quiz System
+# Requirements file
+#
+# This assignment uses ONLY Python standard library modules.
+# No external packages need to be installed.
+#
+# Standard library modules I have used:
+#   - socket     : TCP networking
+#   - threading  : concurrent client handling
+#   - json       : message serialization
+#   - tkinter    : GUI framework (built into Python)
+#   - time       : timing and delays
+#   - random     : question randomization
+#   - queue      : matchmaking queue for players
+#
+# Python version required: 3.8 or higher
+
+ 
