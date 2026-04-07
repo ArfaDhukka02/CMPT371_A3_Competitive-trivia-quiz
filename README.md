@@ -127,9 +127,9 @@ Expected: both screens show the lobby updating, then a 3-2-1 countdown fires aut
 ### Step 5: Game End
 
 After all questions are done:
-- Winner sees a confetti screen 🏆
-- Loser sees a motivational message 💪
-- If scores are equal both see a tie screen 🤝
+- Winner sees a confetti screen 
+- Loser sees a motivational message 
+- If scores are equal both see a tie screen 
 
 Close the client windows and press `Ctrl+C` in the server terminal to stop the server.
 
@@ -168,7 +168,7 @@ We designed a custom application-layer protocol using JSON over TCP.
 ## 7. Academic Integrity & References
 
 **Code Origin:**
-The socket boilerplate structure was inspired by the course TA tutorial on TCP socket programming. The game logic, matchmaking queue, synchronized question flow, scoring system, and GUI were written by me.
+The socket structure was inspired by the course TA tutorial on TCP socket programming. The game logic, matchmaking queue, synchronized question flow, scoring system, and GUI were written by me.
 
 **GenAI Usage:**
 - Claude AI was used to assist in building and debugging the Tkinter GUI frontend and to help structure the JSON messaging protocol.
@@ -178,5 +178,4 @@ The socket boilerplate structure was inspired by the course TA tutorial on TCP s
 
 **References:**
 - Python Socket Programming HOWTO — https://docs.python.org/3/howto/sockets.html
-- Python Threading Documentation — https://docs.python.org/3/library/threading.html
 - Course TA Tutorial — Multiplayer Socket Programming — https://youtube.com/playlist?list=PL-8C2cUhmkO1yWLTCiqf4mFXId73phvdx&si=FIq3OxypbBeWHhYm
